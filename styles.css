@@ -1,0 +1,41 @@
+body {
+    Background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+img {
+    width: 400px;
+}
+h1 {
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-size:40px;
+}
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-size:30px;
+}
+p {
+  font-family: 'Rajdhani', sans-serif;
+  font-size:20px;
+}
+img {
+    border:dotted;
+}
+Body {
+    Background-image: url("https://media.giphy.com/media/26gQt9Zng07uBcV8Y/giphy.gif");
+    
+}
+.box {
+  background-color: purple;
+  color: white;
+  border-radius: 5px;
+  border: 2px dodgerblue solid;
+}
+
